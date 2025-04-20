@@ -1,4 +1,4 @@
-# 📊 Mastering CSV Handling with pandas 
+#  Mastering CSV Handling with pandas 
 
 Welcome to the ultimate practice repository for mastering **CSV handling with Python's pandas** library. This collection of **80 carefully crafted exercises** will guide you from basic file reading to advanced automation and memory-efficient techniques used in real-world data workflows.
 
